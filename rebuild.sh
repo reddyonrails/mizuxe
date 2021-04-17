@@ -1,0 +1,1 @@
+dfx build mizuxe_assets && dfx canister install mizuxe_assets --mode upgrade
